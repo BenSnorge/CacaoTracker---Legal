@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>RentMe – Impressum</title>
+<style>
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; max-width: 700px; margin: 40px auto; padding: 0 20px; line-height: 1.6; color: #1c1c1e; }
+  h1 { font-size: 1.6em; }
+  h2 { font-size: 1.15em; margin-top: 1.8em; }
+</style>
+</head>
+<body>
+
+<h1>Impressum</h1>
+<p>Angaben gemäß § 5 DDG (Digitale-Dienste-Gesetz)</p>
+
+<p>
+<strong>[VORNAME NACHNAME]</strong><br>
+[STRASSE HAUSNUMMER]<br>
+[PLZ ORT]<br>
+Deutschland
+</p>
+
+<h2>Kontakt</h2>
+<p>
+Telefon: [TELEFONNUMMER]<br>
+E-Mail: [E-MAIL-ADRESSE]
+</p>
+
+<h2>Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV</h2>
+<p>
+[VORNAME NACHNAME]<br>
+[STRASSE HAUSNUMMER]<br>
+[PLZ ORT]
+</p>
+
+<h2>Haftungsausschluss</h2>
+
+<p><strong>Haftung für Inhalte</strong><br>
+Als App-Anbieter sind wir gemäß § 7 Abs.1 DDG für eigene Inhalte in dieser App nach den allgemeinen Gesetzen verantwortlich. Wir sind jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt.</p>
+
+<p><strong>Haftung für Links</strong><br>
+Diese App bzw. diese Seite enthält gegebenenfalls Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich.</p>
+
+<p><strong>Urheberrecht</strong><br>
+Die durch den App-Betreiber erstellten Inhalte und Werke unterliegen dem deutschen Urheberrecht. Beiträge Dritter sind als solche gekennzeichnet. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers.</p>
+
+</body>
+</html>

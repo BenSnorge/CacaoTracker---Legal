@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>RentMe – Support</title>
+<style>
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; max-width: 700px; margin: 40px auto; padding: 0 20px; line-height: 1.6; color: #1c1c1e; }
+  h1 { font-size: 1.6em; }
+  h2 { font-size: 1.15em; margin-top: 1.8em; }
+  .intro { color: #444; }
+  .contact-box { background: #f5f5f7; border-radius: 12px; padding: 20px; margin: 24px 0; }
+  .contact-box a { color: #d6336c; text-decoration: none; font-weight: 600; }
+  details { margin-bottom: 12px; border-bottom: 1px solid #e5e5e7; padding-bottom: 12px; }
+  summary { font-weight: 600; cursor: pointer; }
+  summary::marker { color: #d6336c; }
+  footer { margin-top: 3em; font-size: 0.85em; color: #888; }
+  footer a { color: #888; }
+</style>
+</head>
+<body>
+
+<h1>RentMe – Support</h1>
+<p class="intro">Need help with RentMe, found a bug, or have a question or suggestion? We're happy to help.</p>
+
+<div class="contact-box">
+  <p><strong>Contact us:</strong><br>
+  <a href="mailto:[YOUR EMAIL ADDRESS]">[YOUR EMAIL ADDRESS]</a></p>
+  <p>We typically reply within [X] business days.</p>
+</div>
+
+<h2>Frequently asked questions</h2>
+
+<details>
+  <summary>Where is my data stored?</summary>
+  <p>Everything you add in RentMe — items, photos, borrowers, and lending history — stays on your device. RentMe does not have a server and does not send your data anywhere. See our <a href="privacy-policy.html">Privacy Policy</a> for full details.</p>
+</details>
+
+<details>
+  <summary>I'm not getting reminder notifications. What should I check?</summary>
+  <p>First, make sure notifications are allowed: go to <strong>Settings → Notifications → RentMe</strong> on your device and confirm "Allow Notifications" is on. Also check inside RentMe that reminders are enabled for the specific item, and that it has a due date set. Reminders only fire for items that are currently marked as lent out.</p>
+</details>
+
+<details>
+  <summary>Can I add an item without lending it to anyone yet?</summary>
+  <p>Yes — you can create an item and lend it to someone later. Just leave the borrower field empty when creating the item; no due date or reminder is set until you actually lend it.</p>
+</details>
+
+<details>
+  <summary>How do I take or attach a photo to an item?</summary>
+  <p>Tap the photo area when creating or editing an item, then choose "Take Photo" to use your camera, or "Choose from Library" to pick an existing photo. If the camera option doesn't appear, your device may not have a camera available (e.g. in some testing environments), or camera access may need to be allowed in <strong>Settings → RentMe → Camera</strong>.</p>
+</details>
+
+<details>
+  <summary>How do I edit or delete an item or a person?</summary>
+  <p>Open the item or person's detail page and tap the edit icon in the top-right corner. From there you can update details or delete the entry entirely.</p>
+</details>
+
+<details>
+  <summary>What do the 7 / 14 / 30-day options mean?</summary>
+  <p>These set the due date automatically when you lend an item — for example, choosing "14" sets the due date to 14 days from today. Choose "Custom" if you'd rather pick a specific date yourself.</p>
+</details>
+
+<details>
+  <summary>Does RentMe require an account or internet connection?</summary>
+  <p>No. RentMe works fully offline and doesn't require signing up or logging in.</p>
+</details>
+
+<details>
+  <summary>I found a bug or have a feature request — what should I include?</summary>
+  <p>Please email us with a short description of what happened (or what you'd like to see), the steps to reproduce it if it's a bug, and your device model and iOS version if relevant. Screenshots help a lot too.</p>
+</details>
+
+<footer>
+  See also our <a href="privacy-policy.html">Privacy Policy</a> and <a href="impressum.html">Impressum</a>.
+</footer>
+
+</body>
+</html>
